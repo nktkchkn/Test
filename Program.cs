@@ -10,7 +10,7 @@
 
 
 
-string[] array1 = new string[5] {"527", "1", "Hello", "world", ";)", "7", "1235", "Mishka", "23", "};
+string[] array1 = new string[5] {"527", "1", "H", "world", "res"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
